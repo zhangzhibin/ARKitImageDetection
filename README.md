@@ -7,8 +7,12 @@ Demostrating the **Image Detection** feature of ARKit
 2. how to keep the tracked image on screen
 
 A Chinese tutorial (中文教程) could be found here: 
-https://xmanyou.com/p/ce6130db-92e1-4aa8-850f-bc175b07ea57/
+https://www.blackshadowgame.com/arkit-image-detection-tutorial/
 
+
+**Below are Apple official guide**
+
+https://developer.apple.com/documentation/arkit/detecting_images_in_an_ar_experience
 
 # Detecting Images in an AR Experience
 
