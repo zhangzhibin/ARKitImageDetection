@@ -1,6 +1,6 @@
 # About
 
-This project demostrates the **Image Detection** feature of ARKit
+This project demonstrates the **Image Detection** feature of ARKit
 
 ## Also demostrating
 1. how to add a new custom image
