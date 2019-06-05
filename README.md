@@ -1,3 +1,15 @@
+# This is modified project from Apple Developer Site
+
+Demostrating the **Image Detection** feature of ARKit
+
+## Also demostrating
+1. how to add a new custom image
+2. how to keep the tracked image on screen
+
+A Chinese tutorial (中文教程) could be found here: 
+https://xmanyou.com/p/ce6130db-92e1-4aa8-850f-bc175b07ea57/
+
+
 # Detecting Images in an AR Experience
 
 React to known 2D images in the user's environment, and use their positions to place AR content.
