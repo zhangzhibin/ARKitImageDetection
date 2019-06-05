@@ -10,7 +10,7 @@ A Chinese tutorial (中文教程) could be found here:
 https://www.blackshadowgame.com/arkit-image-detection-tutorial/
 
 
-**Below are Apple official guide**
+# Below are Apple official guide
 
 https://developer.apple.com/documentation/arkit/detecting_images_in_an_ar_experience
 
